@@ -121,8 +121,8 @@ Projenin tüm arayüzlerinin ekran görüntüleri aşağıda listelenmiştir. Ek
 #### 3. Kategori Yönetim Sayfası (CRUD)
 ![Admin Kategori Yönetimi](Blogy.WebUI/wwwroot/images/screenshots/admin_categories.png)
 
-#### 4. Etiket Yönetim Sayfası (CRUD)
-![Admin Etiket Yönetimi](Blogy.WebUI/wwwroot/images/screenshots/admin_tags.png)
+#### 4. Rol Yönetim Sayfası (Identity Roles)
+![Admin Rol Yönetimi](Blogy.WebUI/wwwroot/images/screenshots/admin_tags.png)
 
 #### 5. AI Destekli Yorum Moderasyon Paneli (HF & Gemini Re-Analyze)
 ![Admin Yorum Moderasyonu](Blogy.WebUI/wwwroot/images/screenshots/admin_comments.png)
@@ -137,14 +137,14 @@ Projenin tüm arayüzlerinin ekran görüntüleri aşağıda listelenmiştir. Ek
 
 ### Yazar Paneli Arayüzü (Writer Area UI)
 
-#### 1. Yazar Dashboard & Blog İstatistikleri
-![Yazar Dashboard](Blogy.WebUI/wwwroot/images/screenshots/writer_dashboard.png)
+#### 1. Yazar Blog Yönetimi (Bloglarım)
+![Yazar Blog Yönetimi](Blogy.WebUI/wwwroot/images/screenshots/writer_dashboard.png)
 
-#### 2. Yazar Blog Yazma ve Görsel Yükleme Stüdyosu
-![Yazar Blog Stüdyosu](Blogy.WebUI/wwwroot/images/screenshots/writer_blogs.png)
+#### 2. Yeni Blog Yazısı Hazırlama Stüdyosu
+![Yazar Blog Yazma Stüdyosu](Blogy.WebUI/wwwroot/images/screenshots/writer_blogs.png)
 
-#### 3. Yazara Ait Bloglara Gelen Yorumlar
-![Yazar Yorumları](Blogy.WebUI/wwwroot/images/screenshots/writer_comments.png)
+#### 3. AI Destekli Makale Stüdyosu (Gemini)
+![Yazar AI Makale Stüdyosu](Blogy.WebUI/wwwroot/images/screenshots/writer_comments.png)
 
 #### 4. Yazar Profil Düzenleme
 ![Yazar Profil](Blogy.WebUI/wwwroot/images/screenshots/writer_profile.png)
